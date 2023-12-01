@@ -1,0 +1,25 @@
+body
+{
+    color:#ffffff;
+    background: 	#4062be
+}
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+#camera 
+{
+    border: 2px double rgb(70, 70, 70);
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name , #result_object_accurancy
+{
+    color: 	#d6c849;
+    font-size: 22px;
+}
+label
+{
+    font-size: 18px;
+}
